@@ -1,1 +1,2 @@
 # Price-Prediction-of-Used-Cars
+This project aims to predict the price of used cars using various machine learning algorithms. As new car prices rise, many consumers turn to used cars, making accurate price forecasting essential for both buyers and sellers. By applying different ML models to the dataset, the project compares their performance to determine the most accurate model for predicting used car prices. The goal is to provide a reliable system that helps users assess the true market value of a car.
